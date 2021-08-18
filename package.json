@@ -1,0 +1,8 @@
+{
+  "name": "LUI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:China1006/LUI.git",
+  "author": "China1006 <1414894071@qq.com>",
+  "license": "MIT"
+}
